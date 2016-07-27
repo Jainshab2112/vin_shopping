@@ -30,6 +30,10 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# social media login
+gem 'omniauth-facebook'
+gem 'omniauth-google-oauth2'
+
 gem 'country_select'
 
 # image upload
